@@ -1,0 +1,17 @@
+.card {
+    display:flex;
+    flex-direction:row;
+    background-color:#222;
+}
+
+
+.my-image {
+    width:20%;
+    height:20%;
+    margin:1rem;
+    border-radius:10px;
+}
+
+.term {
+    margin: .5rem;
+}
