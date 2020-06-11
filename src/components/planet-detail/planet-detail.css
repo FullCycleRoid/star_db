@@ -2,20 +2,20 @@
     margin-right: .5rem;
 }
 
-.starship-image {
+.person-image {
     width:50%;
     margin:1rem;
     border-radius:10px;
     object-fit: cover;
 }
 
-.starship-list li{
+.person-list li{
     background-color: rgb(40, 40, 40);
           padding-bottom: .5rem;
           padding-top: 0;
 }
 
-.starship-list li span {
+.person-list li span {
     border-top: 1px solid #444;
 }
 

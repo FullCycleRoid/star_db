@@ -1,2 +1,11 @@
 .item-list {
+    color:white;
+}
+
+.item-list :hover {
+    font-color:white;
+}
+
+.list-group-item {
+    color:white;
 }

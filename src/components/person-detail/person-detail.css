@@ -1,17 +1,22 @@
-.card {
-    display:flex;
-    flex-direction:row;
-    background-color:#222;
+.term {
+    margin-right: .5rem;
 }
 
-
-.my-image {
-    width:20%;
-    height:20%;
+.planet-image {
+    width:50%;
     margin:1rem;
     border-radius:10px;
+    object-fit: cover;
 }
 
-.term {
-    margin: .5rem;
+.planet-list li{
+    background-color: rgb(40, 40, 40);
+          padding-bottom: .5rem;
+          padding-top: 0;
 }
+
+.planet-list li span {
+    border-top: 1px solid #444;
+}
+
+

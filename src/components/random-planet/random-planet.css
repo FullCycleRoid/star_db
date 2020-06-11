@@ -8,4 +8,15 @@
 .random-planet {
     display:flex;
     flex-direction: row;
+    color:white;
+    border-top:white;
+}
+
+.border-style span {
+      border-top: 1px solid #444;
+      padding-bottom: .5rem;
+}
+
+.term {
+    margin-right: 1rem;
 }
